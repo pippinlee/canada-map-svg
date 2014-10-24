@@ -1,9 +1,18 @@
 ### Canada Map SVG
 
-<iframe src="http://gfycat.com/ifr/ClosedSparklingAnchovy" frameborder="0" scrolling="no" width="598" height="426" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
-
+![canada](http://fat.gfycat.com/CircularGlitteringGerbil.gif)
 
 **DEMO: [pippinlee.com/canada](http://www.pippinlee.com/canada)**
+
+
+This project is a template to make starting mapping projects easier.
+
+### Included
+* Original SVG map of Canada `canada-map-svg.svg`
+* Original Raphael.js conversion of SVG file `canada-map-svg.js`
+* Additional provincial data included population and premier to get you started `province-data.js`
+* A sample `script.js` file to see what you can make with the above template
+
 
 ### Tools used
 I originally got the Canada map SVG from [here](http://commons.wikimedia.org/wiki/File:Canada_blank_map.svg)

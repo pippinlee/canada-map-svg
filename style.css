@@ -5,7 +5,7 @@ body {
   text-align: center;
 }
 
-#province {
+#province, #premier, #population {
   font-size: 17px;
   position: fixed;
   right: 100px;
@@ -19,8 +19,12 @@ body {
   font-weight: 900;
 }
 
-.red {
-  background-color: red;
+#premier {
+  margin-top: 100px;
+}
+
+#population {
+  margin-top: 200px;
 }
 
 #rsr {

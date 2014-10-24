@@ -1,3 +1,5 @@
+// This file represents all the paths from the canada-map-svg.svg file
+
 var rsr = Raphael('rsr', '629', '609');
 
 var group_a = rsr.set();
@@ -142,19 +144,3 @@ CAQC.push(
   svg_46 
 );
 
-
-// I've added a name method to be easily accessible
-
-CAON.name = 'Ontario';
-CAQC.name = 'Quebec';
-CANU.name = 'Nunavut';
-CANT.name = 'Northwest Territories';
-CABC.name = 'British Columbia';
-CANS.name = 'Nova Scotia';
-CAPE.name = 'Price Edward Island';
-CANL.name = 'Newfoundland and Labrador';
-CASK.name = 'Saskatchewan';
-CAYT.name = 'Yukon Territory';
-CAMB.name = 'Manitoba';
-CAAB.name = 'Alberta';
-CANB.name = 'New Brunswick';
