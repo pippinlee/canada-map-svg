@@ -1,7 +1,9 @@
-### Canada Map
+### Canada Map SVG
 
-![canada](https://cldup.com/jGZ4MT1XSK.png)
+<iframe src="http://gfycat.com/ifr/ClosedSparklingAnchovy" frameborder="0" scrolling="no" width="598" height="426" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
 
+
+**DEMO: [pippinlee.com/canada](http://www.pippinlee.com/canada)**
 
 ### Tools used
 I originally got the Canada map SVG from [here](http://commons.wikimedia.org/wiki/File:Canada_blank_map.svg)
@@ -13,5 +15,3 @@ There are a number of ways to do this. The options include using [this](http://s
 The second option is the great command line tool [SVG Resizer](https://github.com/vieron/svg-resizer).
 
 To use your SVG file with Raphael.js you can use this handy site [readysetraphael.com](www.readysetraphael.com) which will let you upload an SVG and spit out a the .js file you need.
-
-<iframe src="http://gfycat.com/ifr/ClosedSparklingAnchovy" frameborder="0" scrolling="no" width="598" height="426" style="-webkit-backface-visibility: hidden;-webkit-transform: scale(1);" ></iframe>
