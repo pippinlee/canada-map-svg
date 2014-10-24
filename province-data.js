@@ -5,6 +5,7 @@ CAON.info = {
   population : '12,851,821',
   GDPPerCap : '$48,971',
   premier : 'Kathleen Wynne',
+  capital : 'Toronto'
 }
 
 CAQC.info = {
@@ -12,6 +13,7 @@ CAQC.info = {
   population : '7,903,001',
   GDPPerCap : '$43,349',
   premier : 'Philippe Couillard',
+  capital : 'Quebec City'
 }
 
 CANS.info = {
@@ -19,6 +21,7 @@ CANS.info = {
   population : '921,727',
   GDPPerCap : '$39,025',
   premier : 'Stephen McNeil',
+  capital : 'Halifax'
 }
 
 CANB.info = {
@@ -26,6 +29,7 @@ CANB.info = {
   population : '751,171',
   GDPPerCap : '$42,606',
   premier : 'Brian Gallant',
+  capital : 'Fredericton'
 }
 
 CAMB.info = {
@@ -33,6 +37,7 @@ CAMB.info = {
   population : '1,208,268',
   GDPPerCap : '$44,654',
   premier : 'Greg Selinger',
+  capital : 'Winnipeg'
 }
 
 CABC.info = {
@@ -40,6 +45,7 @@ CABC.info = {
   population : '4,400,057',
   GDPPerCap : '$47,579',
   premier : 'Christy Clark',
+  capital : 'Victoria'
 }
 
 CAPE.info = {
@@ -47,6 +53,7 @@ CAPE.info = {
   population : '140,204',
   GDPPerCap : '$36,740',
   premier : 'Robert Ghiz',
+  capital : 'Charlottetown'
 }
 
 CAAB.info = {
@@ -54,6 +61,7 @@ CAAB.info = {
   population : '3,645,257',
   GDPPerCap : '$78,154',
   premier : 'Jim Prentice',
+  capital : 'Edmonton'
 }
 
 CANL.info = {
@@ -61,6 +69,7 @@ CANL.info = {
   population : '514,536',
   GDPPerCap : '$65,556',
   premier : 'Paul Davis',
+  capital : 'St John\'s'
 }
 
 CAYT.info = {
@@ -68,6 +77,7 @@ CAYT.info = {
   population : '33,897',
   GDPPerCap : '$75,141',
   premier : 'Darrell Pasloski',
+  capital : 'Whitehorse'
 }
 
 CANU.info = {
@@ -75,6 +85,7 @@ CANU.info = {
   population : '31,906',
   GDPPerCap : '$58,452',
   premier : 'Peter Taptuna',
+  capital : 'Iqaluit'
 }
 
 CANT.info = {
@@ -82,6 +93,7 @@ CANT.info = {
   population : '41,462',
   GDPPerCap : '$108,394',
   premier : 'Bob McLeod',
+  capital : 'Yellowknife'
 }
 
 CASK.info = {
@@ -89,4 +101,5 @@ CASK.info = {
   population : '1,033,381',
   GDPPerCap : '$70,654',
   premier : 'Brad Wall',
+  capital : 'Regina'
 }

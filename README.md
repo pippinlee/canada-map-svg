@@ -14,6 +14,9 @@ This project is a template to make starting mapping projects easier.
 * A sample `script.js` file to see what you can make with the above template
 
 
+Example of using the `province-data.js` file to get the capital of Ontario: `CAON.info.capital`
+
+
 ### Tools used
 I originally got the Canada map SVG from [here](http://commons.wikimedia.org/wiki/File:Canada_blank_map.svg)
 
@@ -23,4 +26,4 @@ There are a number of ways to do this. The options include using [this](http://s
 
 The second option is the great command line tool [SVG Resizer](https://github.com/vieron/svg-resizer).
 
-To use your SVG file with Raphael.js you can use this handy site [readysetraphael.com](www.readysetraphael.com) which will let you upload an SVG and spit out a the .js file you need.
+To use your SVG file with Raphael.js you can use this handy site [readysetraphael.com](http://www.readysetraphael.com) which will let you upload an SVG and spit out a the .js file you need.
